@@ -2,7 +2,7 @@ Hi! I am Suraj (Certified PMP Project Manager and Certified AWS Solutions archit
 
 I specialize in Python ,Java and have professional experience working with ReactJs , Java  the Spring framework,  microservices and AWS Cloud .I am an empathetic team player and an innovative, creative thinker.
 
-🌍  I'm based in Berlin, Germany.
+🌍  I'm based in Hyderabad, India.
 🖥️  See my portfolio at Github Pages.
 ✉️  You can contact me at surajkyadav862@gmail.com
 🧠  I'm learning React Typescript .
