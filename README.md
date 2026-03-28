@@ -7,3 +7,4 @@ I specialize in Python ,Java and have professional experience working with React
 ✉️  You can contact me at surajkyadav862@gmail.com
 🧠  I'm learning React Typescript .
 🤝  I'm open to collaborating on any fun projects.
+https://www.linkedin.com/in/suraj-k-yadav/
